@@ -8,10 +8,12 @@ calcul_indicateurs.sql : script principal
 data/ : données et documentation
 
 Données:
+
 À importer (disponibles dans le dépôt):
 sites fictifs
 aléa inondation
 cours d’eau
+
 À importer (non fournies dans formation temp):
 bâtiments (BD TOPO)
 MNT (RGE ALTI)
